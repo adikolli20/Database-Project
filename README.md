@@ -7,3 +7,9 @@ This system will help the company to extend not only in the physical place where
 The database will also keep track of the prices paid from customer. So, after some month or years of using this database, the new customers will somehow know the average prices for all companies that are part of our database, based on previous years activity. 
 In total there will be 7 entities (main 3 of them are mention above). 
 The main goal of this database is to set the planning business a step further.
+
+
+The project contains 2 main parts:
+
+ 1) Documentation--> A word file
+ 2) Sql statements --> A sql file
